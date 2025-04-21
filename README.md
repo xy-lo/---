@@ -54,14 +54,15 @@ dct_denoise.m：DCT 变换去噪
 ## 结果可视化展示
 
 - **以下为部分实验结果示例，完整结果请查看说明文档：**
+- 
 以barbara图像为例，引入高斯噪声并观察所有情况的滤波情况：
 
-![结果](figures/滤波.bmp)
+(figures/滤波.bmp)
 
 
 完整的GUI界面设计：
 
-![结果](figures/GUI.bmp)
+(figures/GUI.bmp)
 
 
 ---
