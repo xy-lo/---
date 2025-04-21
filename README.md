@@ -57,13 +57,13 @@ dct_denoise.m：DCT 变换去噪
   
 以barbara图像为例，引入高斯噪声并观察所有情况的滤波情况：
 
-![Barbara 示例 —— 添加高斯噪声与所有滤波结果](figures/滤波.bmp)
+![Barbara 示例 —— 添加高斯噪声与所有滤波结果](figures/滤波.png)
 
 
 
 完整的GUI界面设计：
 
-![完整 GUI 界面](figures/GUI.bmp)
+![完整 GUI 界面](figures/GUI.png)
 
 
 ---
